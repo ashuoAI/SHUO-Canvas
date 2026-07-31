@@ -170,7 +170,7 @@
 
 ## 反馈/交流群
 
-<img src="https://api.ashuoai.com/static/contact/fankui.jpg?v=0.6.6-202607250708" alt="反馈/交流群二维码" width="360">
+<img src="https://api.ashuoai.com/static/contact/fankui.jpg?v=0.6.6-202607250718" alt="反馈/交流群二维码" width="360">
 
 新功能和BUG反馈可以在这里提出：[点击这里](https://i1etb6xynr.feishu.cn/wiki/N2C3wD6SgisOpek11mfcfJCinkr?from=from_copylink)
 
