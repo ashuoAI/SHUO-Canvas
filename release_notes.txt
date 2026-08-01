@@ -1,3 +1,22 @@
+🎉 V0.7.1 版本更新啦！
+画布正式更名为 SHUO Canvas，应用与打包图标同步更新。www.ashuoai.com 官方也上线了
+
+[previewVideoUrl]: https://www.bilibili.com/video/BV1tLGu6TELj/
+
+✨ 新增功能：
+
+🐛 修复与优化：
+- 紧急修复下载音频等操作后窗口缩小且无法恢复的问题
+- 修复 语音工作室打字光标消失的问题
+
+感谢各位的反馈！！！
+
+SHUO Canvas！Windows / macOS 应用版本已发布，欢迎体验！
+windows版本百度网盘下载链接: https://pan.baidu.com/s/1igcxiCGpAd_CFoj9Am2s-g 提取码: 8848
+BUG问题或要新增功能反馈文档：https://i1etb6xynr.feishu.cn/wiki/N2C3wD6SgisOpek11mfcfJCinkr?from=from_copylink
+
+---
+
 🎉 V0.7.0 版本更新啦！
 画布正式更名为 SHUO Canvas，应用与打包图标同步更新。www.ashuoai.com 官方也上线了
 

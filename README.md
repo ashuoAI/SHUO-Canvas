@@ -165,7 +165,7 @@
 
 > 从 v0.7.0 开始，安装包与安装后的软件统一使用 **SHUO Canvas** 名称。
 
-当前版本：[v0.7.0](https://github.com/ashuoAI/SHUO-Canvas/releases/tag/v0.7.0) · [更新说明](./release_notes.txt)
+当前版本：[v0.7.1](https://github.com/ashuoAI/SHUO-Canvas/releases/tag/v0.7.1) · [更新说明](./release_notes.txt)
 
 ## ⚙️ 配置 API Key
 
@@ -215,7 +215,7 @@
 - [Bilibili 主页](https://space.bilibili.com/1876480181)
 - [提交建议或问题](https://i1etb6xynr.feishu.cn/wiki/N2C3wD6SgisOpek11mfcfJCinkr?from=from_copylink)
 
-<img src="https://api.ashuoai.com/static/contact/fankui.jpg?v=0.7.0-202608010544" alt="反馈/交流群二维码" width="360">
+<img src="https://api.ashuoai.com/static/contact/fankui.jpg?v=0.7.1-202608012012" alt="反馈/交流群二维码" width="360">
 
 ## 授权说明
 
