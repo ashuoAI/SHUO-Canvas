@@ -1,3 +1,33 @@
+🎉 V0.7.0 版本更新啦！
+画布正式更名为 SHUO Canvas，应用与打包图标同步更新。www.ashuoai.com 官方也上线了
+
+[previewVideoUrl]: https://www.bilibili.com/video/BV1tLGu6TELj/
+
+✨ 新增功能：
+- 新增 人物替换工作室beta版本 后续会做个详细介绍视频 目前会有点BUG 多多反馈
+- 重做了“资产库” 现在改名为 “素材库”
+- 新增 对象储存功能
+- 新增 视频生成节点 runninghub模型 海螺H3
+- 新增 便宜渠道跟进 seedance2.5
+
+🐛 修复与优化：
+- 修复剧本工作室 点击卡片回弹和生成视频时的参数改不了的问题
+- 改进了 打组框
+- 修复一些打开报错的问题
+- 改进 剧本工作室 “加入画布”的完整逻辑
+- 改进任务完成时的右下角提醒
+- 现在跨画布也不会导致任务中断
+- apikey 测试按钮的一些改进
+- 各种小BUG
+
+感谢各位的反馈！！！
+
+SHUO Canvas！Windows / macOS 应用版本已发布，欢迎体验！
+windows版本百度网盘下载链接: https://pan.baidu.com/s/1igcxiCGpAd_CFoj9Am2s-g 提取码: 8848
+BUG问题或要新增功能反馈文档：https://i1etb6xynr.feishu.cn/wiki/N2C3wD6SgisOpek11mfcfJCinkr?from=from_copylink
+
+---
+
 🎉 V0.6.5 版本更新啦！
 
 修复0.6.4的启动闪退bug

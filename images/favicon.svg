@@ -1,12 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 26 26" fill="none">
-    <circle cx="13" cy="13" r="12" fill="url(#logoGrad)" />
-    <path d="M9 13c0-2.21 1.79-4 4-4s4 1.79 4 4-1.79 4-4 4" stroke="white" stroke-width="1.8"
-      stroke-linecap="round" />
-    <circle cx="13" cy="13" r="1.8" fill="white" />
-    <defs>
-      <linearGradient id="logoGrad" x1="0" y1="0" x2="26" y2="26">
-        <stop offset="0%" stop-color="#6366f1" />
-        <stop offset="100%" stop-color="#8b5cf6" />
-      </linearGradient>
-    </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">SHUO Canvas mark</title>
+  <desc id="desc">A spectrum S-shaped creative canvas mark with a cursor cut from its center.</desc>
+  <defs>
+    <linearGradient id="shuo-spectrum" x1="50" y1="35" x2="210" y2="225" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0D50FF"/>
+      <stop offset=".26" stop-color="#4F50F3"/>
+      <stop offset=".48" stop-color="#A84DCE"/>
+      <stop offset=".66" stop-color="#F65391"/>
+      <stop offset=".82" stop-color="#FF7657"/>
+      <stop offset="1" stop-color="#FDB73F"/>
+    </linearGradient>
+    <radialGradient id="shuo-coral" cx="30" cy="224" r="150" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF646A" stop-opacity=".98"/>
+      <stop offset=".38" stop-color="#FF646A" stop-opacity=".68"/>
+      <stop offset=".78" stop-color="#FF646A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="shuo-amber" cx="204" cy="222" r="166" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FDB53F" stop-opacity=".74"/>
+      <stop offset=".42" stop-color="#FDB53F" stop-opacity=".46"/>
+      <stop offset=".86" stop-color="#FDB53F" stop-opacity="0"/>
+    </radialGradient>
+    <path
+      id="shuo-shape"
+      fill-rule="evenodd"
+      transform="matrix(1.141414 0 0 1.142857 -16.959592 -20)"
+      d="M84 28H190C205 28 215 38 215 52C215 67 205 78 188 94C181 101 181 109 187 116C191 120 198 123 203 127C218 138 226 157 226 178C226 208 205 231 179 231H51C38 231 28 221 28 207C28 193 36 182 48 176C55 173 64 174 68 172C76 169 79 163 77 157C76 149 70 144 61 137L45 124C36 117 31 103 30 89C29 72 34 58 43 49C53 37 67 29 84 28ZM115 105C117 104 119 105 122 107L169 143C175 147 175 151 169 153L143 156L129 176C125 182 120 179 119 172L112 112C111 108 112 106 115 105Z"
+    />
+  </defs>
+  <use href="#shuo-shape" fill="url(#shuo-spectrum)"/>
+  <use href="#shuo-shape" fill="url(#shuo-coral)"/>
+  <use href="#shuo-shape" fill="url(#shuo-amber)"/>
 </svg>
