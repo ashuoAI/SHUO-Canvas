@@ -1,3 +1,35 @@
+🎉 V0.7.2 版本更新啦！
+画布正式更名为 SHUO Canvas，应用与打包图标同步更新。www.ashuoai.com 官方也上线了
+
+[previewVideoUrl]: https://www.bilibili.com/video/BV1tLGu6TELj/
+
+✨ 新增功能：
+- 新增 视频生成节点 runninghub工作流 海螺H3全功能
+- 新增 视频生成节点 apimart/runninghub都支持  “MiniMax-H3”
+- 新增 视频生成节点 即梦官方 支持 “Seedance 2.5” 模型
+- apimart全系列gemini模型支持视频反推
+- 新增 Agnes国内站 入口 设置-apikey-Agnes AI(国内版) 原来的该名称 Agnes AI(国际版)
+- 新增 节点状态的左下角显示 设置-节点创建与行为-选中媒体属性 默认为开
+- 新增 上传快捷键 设置-快捷键里面设置 默认是空
+- 新增 快捷键界面增加了搜索 快捷键太多了 我自己都找不到在哪里~
+
+🐛 修复与优化：
+- 修复 生成节点生成失败显示信息 会叠加原来节点的图标
+- 修复 剧本/替换工作室 素材设置选择模型被界面挡住的问题
+- 修复 grsai点测试后积分对不上的问题
+- 修复 mac版本的替换工作室报错
+- 改进 全部清除图像和视频节点工具栏的自动聚焦
+- 修复 语音工作室克隆语音时生成不了时的状态错误
+- 修复 语音工作室本地识别字幕方法
+
+感谢各位的反馈！！！
+
+SHUO Canvas！Windows / macOS 应用版本已发布，欢迎体验！
+windows版本百度网盘下载链接: https://pan.baidu.com/s/1igcxiCGpAd_CFoj9Am2s-g 提取码: 8848
+BUG问题或要新增功能反馈文档：https://i1etb6xynr.feishu.cn/wiki/N2C3wD6SgisOpek11mfcfJCinkr?from=from_copylink
+
+---
+
 🎉 V0.7.1 版本更新啦！
 画布正式更名为 SHUO Canvas，应用与打包图标同步更新。www.ashuoai.com 官方也上线了
 
