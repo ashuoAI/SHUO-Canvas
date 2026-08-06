@@ -1,3 +1,34 @@
+🎉 V0.7.3 版本更新啦！
+
+[previewVideoUrl]: https://www.bilibili.com/video/BV1tLGu6TELj
+
+✨ 新增功能：
+- 视频节点新增 apimart flux3
+- 视频节点 MiniMAX官方 > 海螺H3。 apikey设置对应 minimax国内 国际版本
+- 图像节点新增 apimart qwen image 3.0
+- 新增 runninghub工作流的 国内国际切换标签 如用国际apikey那么就切成国际的 位置在runninghub工作流提示词栏右上角显示
+- runninghub国际路线也会加入排队，国内/国际各自分开，例如 国际只有1并发 你点发送N个任务，他就是完成一个后进行下一个
+- 新增 文本生成节点 runninghub模型补全了图片上传能力
+- 新增 替换工作室-素材设定-音频库界面 现在除了上传音频还可以从音频库里添加
+    - 现在改为检测关键帧而非首帧检测，
+    - 图像替换 裁剪界面可以一次性指定 关键帧 选定关键帧后将会有更明显的标识
+- 现在裁切镜头等功能也支持GPU加速
+
+🐛 修复与优化：
+- 修复 视频生成节点 rh的海螺H3报错
+- 修复 因为复制节点导致入参有显示视频但是后台发送并没有实际获得这个视频导致 无法获取视频地址的问题
+- 修复 替换工作室 图像更改导致生成的视频消失的问题
+- 修复 apikey在测试时显示上传失败的BUG
+- 修复 以前版本添加RHAI应用删掉后导致残留显示的问题
+
+感谢各位的反馈！！！
+
+SHUO Canvas！Windows / macOS 应用版本已发布，欢迎体验！
+windows版本百度网盘下载链接: https://pan.baidu.com/s/1igcxiCGpAd_CFoj9Am2s-g 提取码: 8848
+BUG问题或要新增功能反馈文档：https://i1etb6xynr.feishu.cn/wiki/N2C3wD6SgisOpek11mfcfJCinkr?from=from_copylink
+
+---
+
 🎉 V0.7.2 版本更新啦！
 画布正式更名为 SHUO Canvas，应用与打包图标同步更新。www.ashuoai.com 官方也上线了
 
