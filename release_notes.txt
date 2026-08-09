@@ -1,3 +1,34 @@
+🎉 V0.7.5 版本更新啦！
+这版本改了一些节点逻辑 现在性能更好了 大幅改善速度了
+
+[previewVideoUrl]: https://www.bilibili.com/video/BV1J3u269ECG/
+
+✨ 新增功能：
+- 视频节点 火山方舟/apimart新增 seedance2.5 模型
+- 视频节点 RH工作流 海螺H3 新增 4步LORA加速方案为默认
+- 视频节点 runninghub工作流 新增 视频编辑animate2 V1
+- 现在默认的左侧 ”画布工具栏“ 可以在设置-画布工具栏位置 设置在左侧或者底部
+- 增加了mac鼠标的操作方式 设置 > 常规 > 输入偏好 > 触控板模式
+- 改动 把视频节点左上角的静音按钮放到右下角
+- 画布界面增加了最远和最近的缩放距离
+
+🐛 修复与优化：
+- 修复 节点左右加号的显示层级问题 之前它会挡住一些界面
+- 左侧栏和左下角栏整体缩小 适应小屏幕用户
+- 修复 图片 右键 “在资源管理器显示素材”的链路错误
+- 修复个别用户完成任务没有提示音的问题
+- 优化视频节点加载逻辑
+- 大幅优化节点性能 真该死以前原来一直同一个节点挂载两倍的素材导致速度慢
+- 修复 拖动节点时按空格键平移画布会导致节点偏移的BUG
+
+感谢各位的反馈！！！
+
+SHUO Canvas！Windows / macOS 应用版本已发布，欢迎体验！
+windows版本百度网盘下载链接: https://pan.baidu.com/s/1igcxiCGpAd_CFoj9Am2s-g 提取码: 8848
+BUG问题或要新增功能反馈文档：https://i1etb6xynr.feishu.cn/wiki/N2C3wD6SgisOpek11mfcfJCinkr?from=from_copylink
+
+---
+
 🎉 V0.7.4 版本更新啦！
 
 [previewVideoUrl]: https://www.bilibili.com/video/BV1tLGu6TELj
