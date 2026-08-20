@@ -1,3 +1,28 @@
+🎉 V0.7.8 版本更新啦！
+
+[previewVideoUrl]: https://www.bilibili.com/video/BV1qjgE66Eau/
+
+✨ 新增功能：
+- 补全grsai的所有模型能力 之前4K是VIP通道 但普通通道也有4K 一直忽略了 另外GPT5.6系列模型都同步支持了（但是不建议用比较贵）
+- 新增连线的样式 设置>画布与对齐>连接线样式：曲线、直角线、直线
+- 图片/视频顶部下载按钮会记住上次保存目录
+- 新增节点管理 可以在设置调整界面停靠位置：左侧 右侧 底部
+- 原左侧菜单栏 也可以在设置调整界面停靠位置：左侧 右侧 底部
+
+🐛 修复与优化：
+- 修复替换工作室 新建的检测框绑定人物时会覆盖之前的检测框的问题
+- 修复rh国内/国际站 默认站点切换的问题
+- 修复便宜渠道在剧本工作室生成报错的问题
+
+感谢各位的反馈！！！
+
+SHUO Canvas！Windows / macOS 应用版本已发布，欢迎体验！
+windows版本百度网盘下载链接: https://pan.baidu.com/s/1igcxiCGpAd_CFoj9Am2s-g 提取码: 8848
+BUG问题或要新增功能反馈文档
+方法1 里面填写遇到的问题：https://i1etb6xynr.feishu.cn/wiki/N2C3wD6SgisOpek11mfcfJCinkr?from=from_copylink
+方法2 设置-文件与保存-生成诊断包 发到“功能反馈群”并且艾特 “阿硕” （主要是报错的问题）
+
+---
 🎉 V0.7.7 版本更新啦！
 便宜渠道sd2.5上新渠道 480 0.29/秒 720 0.35/秒  1080P 0.7/秒 不卡脸 速度嘎嘎快，质量嘎嘎高
 替换工作室暂时告一段落了 个人感觉已经很完善 后面重点剧本工作室以及新的复刻视频
@@ -1339,4 +1364,3 @@ windows版本百度网盘下载链接: https://pan.baidu.com/s/1igcxiCGpAd_CFoj9
 BUG问题或要新增功能反馈文档：https://i1etb6xynr.feishu.cn/wiki/N2C3wD6SgisOpek11mfcfJCinkr?from=from_copylink
 
 ---
-
