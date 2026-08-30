@@ -1,3 +1,41 @@
+🎉 V0.7.10 版本更新啦！
+
+[previewVideoUrl]: https://www.bilibili.com/video/BV1cPhc6EEa1/
+
+✨ 新增功能：
+- 视频节点上方栏功能增加"片段重拍" 主要针对sd2.5的编辑功能
+- canvas agent性能加强 增加skill支持
+- 视频节点 新增 转为GIF功能 可以把画布里面的视频快速转为微信GIF
+- 视频生成节点新增 Agnesai-video2.5 、2.5 flash（免费）
+- 剧本/替换工作室现在支持跨项目并行操作 项目A生成时可以切换到项目B继续操作
+- 替换工作室-图像替换增加AI提示词增强 生图效果可能会更好点
+- 视频生成节点 新增- runninghub工作流 海螺H3多种加速，海螺H3多采（仅能生成10秒）海螺H3视频编辑 （替换角色）
+- 视频生成节点 新增- runninghub工作流 海螺H3音频驱动
+- 视频生成节点 新增- runninghub模型 seedance2.5
+- 右键菜单增加上传按钮
+- 双击菜单变为双列
+- 改进注释节点的字体大小显示
+- 改进节点提示词栏的宽度
+
+🐛 修复与优化：
+- 修复替换工作室并发仅有两条的问题
+- 修复调用comfyui本地 / 云端 现在完全独立
+- 优化画布运行性能 （1200个图像/视频节点没压力）
+- 修复替换工作室 声音克隆 后加入的人物声音不显示的问题
+- 修复语音工作室本地模式会重复检测下载
+- 替换工作室 一些用户竖屏视频显示不全的BUG，裁剪/获取帧时会回弹的问题
+- 修复一项启动的BUG
+- 修复画布项目重命名的BUG
+
+感谢各位的反馈！！！
+
+SHUO Canvas！Windows 应用版本已发布，欢迎体验！
+windows版本百度网盘下载链接: https://pan.baidu.com/s/1igcxiCGpAd_CFoj9Am2s-g 提取码: 8848
+BUG问题或要新增功能反馈文档
+方法1 里面填写遇到的问题：https://i1etb6xynr.feishu.cn/wiki/N2C3wD6SgisOpek11mfcfJCinkr?from=from_copylink
+方法2 设置-文件与保存-生成诊断包 发到“功能反馈群”并且艾特 “阿硕” （主要是报错的问题）
+---
+
 🎉 V0.7.8 版本更新啦！
 
 [previewVideoUrl]: https://www.bilibili.com/video/BV1qjgE66Eau/
