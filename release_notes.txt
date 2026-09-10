@@ -1,3 +1,43 @@
+🎉 V0.7.13 版本更新啦！
+修复启动问题，优化替换工作室图像替换的几个模式
+
+[previewVideoUrl]: https://www.bilibili.com/video/BV1ecbG6wE85/
+
+✨ 新增功能：
+- 新增 节点提示词栏 右上角的放大显示 方便写“论文”
+- 新增 openai cli → 入口：设置 → cli接口登陆 （需要openai会员）
+    文本节点/图像节点以新增相关能力
+- 新增 图像节点 APIMart → GPT image 2.5 、GPT image 2.5 Ext
+- 新增 图像节点 Grsai → GPT image 2.5
+- 新增 文本节点 openai cli → GPT6 Astra
+- 新增 文本节点 APIMart → Qwen 3.8 Max 支持：联网搜索 读取网页 文字搜图 以图搜图
+- 新增 文本节点 Grsai → gpt-6-astra gemini-3.8-flash gemini-3.7-flash gemini-3.5-flash-lite
+- 新增 文本节点 RunningHub模型 → Suno 歌词生成（国际）、Mureka 歌词生成
+- 新增 音频节点 RunningHub模型 → 千问3 语音合成 Flash、Instruct-Flash，Qwen3 TTS 声音设计
+- 新增 音频节点 RunningHub模型 → 豆包 语音合成 2.0、音频生成 1.0
+- 新增 音频节点 RunningHub模型 → MiniMax 语音 2.6 HD/Turbo、02 HD/Turbo，Music 2.5、声音克隆、Music 翻唱
+- 新增 音频节点 RunningHub模型 → Mureka v7.6/v8/v9 伴奏生成，v7.6/o2/v8/v9 歌曲生成，v7.6/v8 短歌延长
+- 当完成任务后可以点击通知来进行跳转到完成任务的节点位置
+- 改进 设置界面 加入了功能搜索功能
+🐛 修复与优化：
+- 修复 音频节点模型选择菜单缺少国内、国际标签的问题
+- 优化 RunningHub模型 国内、国际支持范围：国际版全部开放，国内版按国内官网模型目录显示
+- 修复黏贴大量文本进提示词栏的时候会假死一下的bug
+- 优化多画布时的性能 提升流畅程度 现在已经非常流畅了
+- 修复悬停在界面四周鼠标样式会还原的问题
+- /预设会把<>标签当成吃掉的问题
+- 修复节点生成时的层级问题
+
+感谢各位的反馈！！！
+
+SHUO Canvas！Windows 应用版本已发布，欢迎体验！
+windows版本百度网盘下载链接: https://pan.baidu.com/s/1igcxiCGpAd_CFoj9Am2s-g 提取码: 8848
+BUG问题或要新增功能反馈文档
+方法1 里面填写遇到的问题：https://i1etb6xynr.feishu.cn/wiki/N2C3wD6SgisOpek11mfcfJCinkr?from=from_copylink
+方法2 设置-文件与保存-生成诊断包 发到“功能反馈群”并且艾特 “阿硕” （主要是报错的问题）
+
+---
+
 🎉 V0.7.12 版本更新啦！
 修复启动问题，优化替换工作室图像替换的几个模式
 
