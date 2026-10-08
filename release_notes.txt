@@ -1,6 +1,6 @@
 🎉 V0.8.1 版本更新啦！
 现在只要是会员登陆账号就可以用了 不需要输入授权码 换电脑也适用
-复刻分析耗时会随视频时长和内容变化。
+复刻分析耗时会随视频时长和内容变化。（现在链路还是长后续还会加快效率）
 
 [previewVideoUrl]: https://www.bilibili.com/video/BV1cea26EEkx/
 
@@ -32,7 +32,8 @@
 感谢各位的反馈！！！
 
 SHUO Canvas！Windows 应用版本已发布，欢迎体验！
-windows版本百度网盘下载链接: https://pan.baidu.com/s/1igcxiCGpAd_CFoj9Am2s-g 提取码: 8848
+windows/mac版本百度网盘下载链接: https://pan.baidu.com/s/1igcxiCGpAd_CFoj9Am2s-g 提取码: 8848
+夸克下载连接：https://pan.quark.cn/s/874a33f9d165
 BUG问题或要新增功能反馈文档
 方法1 里面填写遇到的问题：https://i1etb6xynr.feishu.cn/wiki/N2C3wD6SgisOpek11mfcfJCinkr?from=from_copylink
 方法2 设置-文件与保存-生成诊断包 发到“功能反馈群”并且艾特 “阿硕” （主要是报错的问题）
