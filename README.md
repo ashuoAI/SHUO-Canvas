@@ -179,7 +179,7 @@ https://github.com/user-attachments/assets/a8fc0652-8a0b-4582-991b-fca988f9b5a7
    - **使用官方模型**：在 **设置 → 账号与订阅** 登录官方账号，使用账号积分生成，无需配置 API Key。
    - **使用自配 API**：在 **设置 → API 输入** 中填写对应平台的 API Key 后保存。
 
-当前版本：[v0.8.13](https://github.com/ashuoAI/SHUO-Canvas/releases/tag/v0.8.13) · [更新说明](./release_notes.txt)
+当前版本：[v0.8.14](https://github.com/ashuoAI/SHUO-Canvas/releases/tag/v0.8.14) · [更新说明](./release_notes.txt)
 
 ## ⚙️ 模型使用与 API 配置
 
@@ -230,7 +230,7 @@ https://github.com/user-attachments/assets/a8fc0652-8a0b-4582-991b-fca988f9b5a7
 - [Bilibili 主页](https://space.bilibili.com/1876480181)
 - [提交建议或问题](https://i1etb6xynr.feishu.cn/wiki/N2C3wD6SgisOpek11mfcfJCinkr?from=from_copylink)
 
-<img src="https://api.ashuoai.com/static/contact/qun.webp?v=0.8.13-202611061924" alt="反馈/交流群二维码" width="360">
+<img src="https://api.ashuoai.com/static/contact/qun.webp?v=0.8.14-202611090348" alt="反馈/交流群二维码" width="360">
 
 ## 授权说明
 
